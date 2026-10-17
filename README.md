@@ -17,7 +17,7 @@
 - 🎓 Developer in learning, passionate about building real websites
 - 📍 Based in **Phnom Penh, Cambodia** 🇰🇭
 - 🛒 Working on e-commerce and seller account projects
-- 🌱 Currently improving my skills in **PHP** and **SQL**
+- 🌱 Currently improving my skills in **Node.JS** and **Java**
 - 📫 Reach me at **nethnhor1@gmail.com**
 
 ---
