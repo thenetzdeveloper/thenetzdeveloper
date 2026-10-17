@@ -46,20 +46,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/thenetz_07">
+  <a href="https://t.me/netstillloser">
     <img src="https://img.shields.io/badge/Telegram-0f0c29?style=for-the-badge&logo=telegram&logoColor=6366f1" />
   </a>
-  <a href="https://www.facebook.com/share/1MBhgEGntm/?mibextid=wwXlfr">
+  <a href="https://www.facebook.com/share/1GsRdT9N27/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-0f0c29?style=for-the-badge&logo=facebook&logoColor=6366f1" />
   </a>
-  <a href="https://www.tiktok.com/@zeanaakhreview">
+  <a href="https://www.tiktok.com/@nythnogirlfreinds?_r=1&_t=ZS-9AcUxqgcYzA">
     <img src="https://img.shields.io/badge/TikTok-0f0c29?style=for-the-badge&logo=tiktok&logoColor=8b5cf6" />
-  </a>
-  <a href="https://www.instagram.com/nethnhor">
-    <img src="https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=8b5cf6" />
-  </a>
-  <a href="mailto:nethnhor1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=6366f1" />
   </a>
 </p>
 
