@@ -10,25 +10,11 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenetzdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=8b5cf6" />
-</p>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
