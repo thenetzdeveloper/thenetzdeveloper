@@ -17,7 +17,7 @@
 - 🎓 Developer senoir student , passionate about building real websites
 - 📍 Based in **Phnom Penh, Cambodia** 🇰🇭
 - 🛒 Working on e-commerce and frontend / backend
-- 🌱 Currently improving my skills in **Node.JS** **Python** **JS** **ReactJs** **C / C# / C++** **PHP** **Database** and **Java**
+- 🌱 Currently improving my skills in **Node.JS** ,**Python** ,**JS** ,**ReactJs** ,**C / C# / C++** ,**PHP** ,**Database** and **Java**
 - 📫 Reach me at **nethnhor1@gmail.com**
 
 ---
